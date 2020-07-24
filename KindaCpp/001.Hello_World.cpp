@@ -18,7 +18,7 @@ int main() {
  * For now, all we need to take away is that executed codes are written inside that main() function.
  * 
  *      int main() {
- *          //code go here
+ *          //code goes here
  *          //another code goes here
  *          //...
  *      }
