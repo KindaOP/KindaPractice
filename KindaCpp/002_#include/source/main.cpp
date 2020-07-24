@@ -24,7 +24,7 @@ using namespace std;
  *      }
  * 
  * The code is missing a return type, a function declaration, and a curly bracket. Like, wtf??
- * But in rhe project, if we check the file thatmissingthing.hpp, we will find just the things.
+ * But in the project, if we check the file thatmissingthing.hpp, we will find just the things.
  */
 
 /*
