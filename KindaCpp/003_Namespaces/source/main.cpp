@@ -21,7 +21,6 @@ namespace two {
 }
 
 int main() {
-    std::cout<<"Hello World"<<std::endl;
     std::cout<<one::number<<std::endl;
     std::cout<<two::number<<std::endl;
     return 0;
