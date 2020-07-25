@@ -9,13 +9,13 @@
 
 int main()
 {
-    double x = 0.2; //Standard number assignment
+    double x = -0.2; //Standard number assignment
     std::cout<<x<<std::endl;
     
     float y = 5.2f; //Special format available for floating point numbers
     std::cout<<y<<std::endl;
     
-    long z = 10E7; //Scientific notation format for any number
+    long z = -10E7; //Scientific notation format for any number
     std::cout<<z<<std::endl;
 }
 
