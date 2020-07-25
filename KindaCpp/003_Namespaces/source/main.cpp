@@ -56,7 +56,7 @@ int main() {
 
 /*
  * Perhaps because of this, Some people (or a lot of people, I don't know) think of using the entire namespace as a bad habit in C++ coding.
- * If you want to avoid doing so, ther are two ways :
+ * If you want to avoid doing so, there are two ways :
  * 1. Use the using keyword with only the things we need. For example, if we just want to use number from two, we just write
  * 
  *      using two::number;
