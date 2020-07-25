@@ -9,6 +9,16 @@
  * Actually, namespaces are very simple. You can even create one... no, two of them right now.
  */
 
+/*
+ * To be clear, the same namespace can even be defined in different places and files.
+ * If we write
+ *      
+ *      namespace yay { int number = 0; }
+ *      namespace yay { int anotherNumber = 0; }
+ *
+ * it is still totally fine. That's why many header files contain stuffs in the single namespace like std.
+ */
+
 #include <iostream>
 
 //An example of creating a namespace.
