@@ -36,7 +36,7 @@
  * `        return 0;
  *      }
  * 
- * sr if the code is short, some people do this
+ * or if the code is short, some people do this
  * 
  *      int main() { return 0; }
  *      
