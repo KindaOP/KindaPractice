@@ -23,4 +23,5 @@ int main() {
  *          //...
  *      }
  * 
+ * Also, all statements (like bare lines of code) must be ended with semicolon. Get used to it.
  */
