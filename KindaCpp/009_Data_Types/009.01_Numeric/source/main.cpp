@@ -25,7 +25,7 @@ int main()
  * For decimal numbers, we have float, double, and long double.
  * 
  * Why this many types? They all differ in usage due to precisions and the size of each data type.
- * I am too lazy too list that for you, so use the sizeof() operator if you want to know more.
+ * I am too lazy to list them for you, so use the sizeof() operator if you want to know more.
  * 
  *      std::cout<<sizeof(int)<<std::endl;
  * 
