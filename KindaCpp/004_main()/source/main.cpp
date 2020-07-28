@@ -22,7 +22,7 @@ int main() {
 //To get the another_random_function() function to be executed, stay tuned.
 
 /*
- * Basically, the main() function is automatically called by the compiler.
+ * Basically, the main() function is automatically called by the application.
  * For other functions, we need to manually call it (or basically use it, for now).
  *
  * The int keyword is used as something called a return type (more info later)
