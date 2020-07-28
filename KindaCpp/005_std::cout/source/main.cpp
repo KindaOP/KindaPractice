@@ -25,7 +25,7 @@ int main() {
 }
 
 /*
- * Also, an important thing is that the code compiles and runs from TOP TO BOTTOM, and LEFT TO RIGHT.
+ * Also, an important thing is that the code is compiled and run from TOP TO BOTTOM, and LEFT TO RIGHT.
  * Why is this important?
  * 
  * Because if somehow you use those keywords before <iostream> is even included like this
