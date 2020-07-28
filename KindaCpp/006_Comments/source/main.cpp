@@ -27,5 +27,5 @@ int main() { //I can be here too
  * 2. Use / and * to create multiple lines of comments like this one.
  * 
  * Generally, flooding codes with comments is nod a good thing, but hey, this is just a casual code so...
- * We an even comment out parts of the code we don't want the compiler to read. Check this out!
+ * We can even comment out parts of the code we don't want the compiler to read. Check this out!
  */ 
