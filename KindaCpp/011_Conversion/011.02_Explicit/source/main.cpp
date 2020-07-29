@@ -13,12 +13,12 @@ int main()
 	int b = a + 6;
 	double c = 123; //This shouldn't have any problem since a double has a larger size than an int
 	double d = c - ((double)a + static_cast<double>(b)); 
-	//To get rid of the previous warning, simply convert a and b to double before adding them together.
+	//To get rid of the previous warning, simply convert a and b to double before adding them together
 	std::cout << d << std::endl;
 
 	int e = -3;
 	int f = 7.0 / e; //To get a result with a decimal point, one of the operands must be a decimal number
-	//You can either use 7.0 instead of 7 or cast e to double, or both if you want.
+	//You can either use 7.0 instead of 7 or cast e to double, or both if you want
 	std::cout << f << std::endl;
 
 	return 0;
