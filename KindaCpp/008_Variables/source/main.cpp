@@ -18,6 +18,9 @@ int main()
    return 0;                    //And how do we know when it will not exist... wait.
 }
 
+//to be clear, this is not the only way we can create a variable.
+//There is actually another way with major differences, but we will talk about that later.
+
 /*
  * We can also refer to the first assignment to a variable as initialization.
  * If we do not initialize x like this in this case
