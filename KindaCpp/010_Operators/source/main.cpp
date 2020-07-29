@@ -42,11 +42,12 @@ int main()
  * - A minus sign for subtraction
  * * An asterisk for multiplication
  * / A forward-slash for division
- * % A percent sign for modulus
  * ** A double-asterisk sing for powers
+ * % A percent sign for modulus (In case you don't know what this is, it basically gives us the remainder of the division between 
+ * 				 a number and an integer, like 5 % 2 is evaluated to 1 for example)
  * 
- * and manymanymanymanymanymanymore awaiting you ahead. Note that some of these can be used with other
- * data types aprt form numbers. I will mention them later if I can still remember to do so.
+ * and manymanymanymanymanymanymore awaiting you ahead. Note that some of these can be used with some other
+ * data types apart form numbers. I will mention them later if I can still remember to do so.
  */
 
 /*
@@ -59,5 +60,6 @@ int main()
  * - Ternary operator : operates on 3 operands
  *
  * So far, the operators I demonstrated above are then classified as binary operators, as they all take two numbers.
+ * That sizeof() operator we saw before olnly takes one value, so it is a unary operator.
  * More of the operators are coming, but I guess it kinda starts to be "not basic" if I am to include them here.
  */
