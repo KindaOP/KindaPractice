@@ -26,7 +26,7 @@ int main() {
  * For other functions, we need to manually call it (or basically use it, for now).
  *
  * The int keyword is used as something called a return type (more info later).
- * It stands for integer, which means this main() function must give us an integer value when exited.
+ * It stands for integer, which means this main() function must give us an integer value when exitted.
  * The main() function must return an integer. You may try modifying it to something else, but it won't work.
  * 
  * Also, the statement
