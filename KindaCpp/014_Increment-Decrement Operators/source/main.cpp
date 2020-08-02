@@ -44,7 +44,7 @@ int main()
  *		x++;
  *		x--;
  *
- * produces the same value of x in the end. However, these latter expressions can also be used in
+ * produce the same value of x in the end. However, these latter expressions can also be used in
  * other lines of code too, as shown in the examples where we put i++ after std::cout and a << operator.
  * Unfortunately, with these kinda scenarios, there are actually two ways we can use these operators
  * and we should know the difference between the two.
