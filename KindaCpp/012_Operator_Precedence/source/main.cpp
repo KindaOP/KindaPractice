@@ -57,7 +57,7 @@ int main()
  *		std::cout << a << '\t' << b << '\t' << c cstd::endl;
  *
  * For now, just understand that this operation is done from left to right as well, so a, b, c are printed
- * in this particular order. The reason this works for std::cout can be found in the file regarding iostream.
+ * in this particular order. The reason this works for std::cout can be found in the file regarding <iostream>.
  *
  * At least, what we should take away is that we should be aware of operator precedence.
  * There are a whole list of operator precedence in C++ in the internet, so look them up when needed.
