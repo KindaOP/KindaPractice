@@ -36,8 +36,8 @@ int main()
  * As you can see from the example, an increment or a decrement operator is a unary operator.
  * The operator increases or decreases the value of a variable by 1. So, these codes
  *
- *		x = x + 1;
- *		x = x - 1;
+ *		x += 1;
+ *		x -= 1;
  *
  * and these codes
  *
