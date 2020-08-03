@@ -66,7 +66,7 @@ int main()
  * We can just write
  *
  *		int count = 0;
- *		count++;
+ *		count++; //or ++count. It does not matter now
  *		std::endl << count << std::endl;
  *
  * By doing this, the pre-increment and post-increment operator will end up giving the same answer,
